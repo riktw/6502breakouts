@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "riklib")(type "KiCad")(uri "/home/rik/PersonalFiles/Kicad/rik_footprints.pretty")(options "")(descr ""))
+)
